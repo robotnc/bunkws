@@ -1,4 +1,4 @@
-# WeKws
+# BunKws forked from WeKws
 
 Production First and Production Ready End-to-End Keyword Spotting Toolkit.
 
